@@ -1,0 +1,22 @@
+# Core
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+scikit-learn>=1.0
+tqdm>=4.62
+
+# Deep learning
+torch>=1.13
+torch-geometric>=2.2
+
+# Structure / biology
+biopython>=1.79
+fair-esm>=2.0.0
+
+# Plotting / analysis (optional scripts)
+matplotlib>=3.5
+seaborn>=0.12
+umap-learn>=0.5
+
+# Utilities
+rarfile>=4.0
